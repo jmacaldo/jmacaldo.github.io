@@ -1,7 +1,12 @@
 {
   "main.css": "static/css/main.55f69407.css",
   "main.css.map": "static/css/main.55f69407.css.map",
-  "main.js": "static/js/main.52960d19.js",
-  "main.js.map": "static/js/main.52960d19.js.map",
-  "static/media/pixr02.jpg": "static/media/pixr02.874ee62f.jpg"
+  "main.js": "static/js/main.d39cb2b9.js",
+  "main.js.map": "static/js/main.d39cb2b9.js.map",
+  "static/media/headshot.png": "static/media/headshot.ff2239cc.png",
+  "static/media/macaldo_resume_02_20_2018.pdf": "static/media/macaldo_resume_02_20_2018.044ee074.pdf",
+  "static/media/pixr02.jpg": "static/media/pixr02.874ee62f.jpg",
+  "static/media/rt.jpg": "static/media/rt.094695fc.jpg",
+  "static/media/vcbc1.jpg": "static/media/vcbc1.6368c66a.jpg",
+  "static/media/vcbc2.jpg": "static/media/vcbc2.78c73bf7.jpg"
 }
